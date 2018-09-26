@@ -1,3 +1,5 @@
+## This project is currently just a basic tic-tac-toe app. Further changes to come..
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## React Agile Poker
